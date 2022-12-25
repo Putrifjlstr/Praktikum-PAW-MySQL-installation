@@ -1,8 +1,8 @@
 # Praktikum-PAW-MySQL-installation
 
 1. download community server edition software. pilih operasi Operating System, such as Windows.
-link https://dev.mysql.com/downloads/installer/
-![image](https://user-images.githubusercontent.com/101171434/209484715-6bf1df09-9744-4f3d-918e-34c299be58c4.png)
+//link https://dev.mysql.com/downloads/installer/
+//![image](https://user-images.githubusercontent.com/101171434/209484715-6bf1df09-9744-4f3d-918e-34c299be58c4.png)
 
 2. buka file yang telah di download dan install
 ![image](https://user-images.githubusercontent.com/101171434/209484727-4fb149c0-ee6c-42db-aac8-bed6085d72ec.png)
